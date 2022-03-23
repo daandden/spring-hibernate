@@ -7,66 +7,264 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="551b5367-0474-43e1-8680-da940e550749" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/spring-demo-annotations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/AnnotationBeanScopeDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/AnnotationDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/DatabaseFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/HappyFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/JavaConfigDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/PracticeJavaConfigDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/PracticeSportConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/RESTFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/RandomFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/SadFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/SoccerCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/SportConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/SwimCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/SwimJavaConfigDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/com/luv2code/springdemo/TennisCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/sport.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-one/spring-demo-one.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/beanLifeCycle-applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/beanScope-applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/BeanLifeCycleDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/BeanScopeDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/CricketCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/com/luv2code/springdemo/SetterDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/sport.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_demo_intellij_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mvc-demo-intellij.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/SillyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/validation/CourseCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/validation/CourseCodeConstraintValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/countries.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/customer-confirmation.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/customer-form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/helloworld.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/student-confirmation.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/student-form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/hb-01-one-to-one-uni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/main/java/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/main/java/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/main/java/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/main/java/com/luv2code/hibernate/demo/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/main/java/com/luv2code/hibernate/demo/enity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/main/java/com/luv2code/hibernate/demo/enity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/main/java/com/luv2code/hibernate/demo/enity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/target/classes/com/luv2code/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/target/classes/com/luv2code/hibernate/demo/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/target/classes/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/target/classes/com/luv2code/hibernate/demo/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/target/classes/com/luv2code/hibernate/demo/enity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/target/classes/com/luv2code/hibernate/demo/enity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/target/classes/com/luv2code/hibernate/demo/enity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-01-one-to-one-uni/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/hb-01-one-to-one-uni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/hb-03-one-to-many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/java/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/java/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/java/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/java/com/luv2code/hibernate/demo/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/java/com/luv2code/hibernate/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/java/com/luv2code/hibernate/demo/enity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/java/com/luv2code/hibernate/demo/enity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/java/com/luv2code/hibernate/demo/enity/InstructorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/target/classes/com/luv2code/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/target/classes/com/luv2code/hibernate/demo/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/target/classes/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/target/classes/com/luv2code/hibernate/demo/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/target/classes/com/luv2code/hibernate/demo/enity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/target/classes/com/luv2code/hibernate/demo/enity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-03-one-to-many/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/hb-01-one-to-one-uni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/hb-03-one-to-many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/hb-04-one-to-many-uni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/CreateCourseAndReviewsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/CreateCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/CreateInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/CreateInstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/DeleteCourseAndReviewsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/DeleteCourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/GetCourseAndReviewsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/GetInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/entity/InstructorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/java/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/target/classes/com/luv2code/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/target/classes/com/luv2code/hibernate/demo/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/target/classes/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/target/classes/com/luv2code/hibernate/demo/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/target/classes/com/luv2code/hibernate/demo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-04-one-to-many-uni/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/hb-01-one-to-one-uni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/hb-03-one-to-many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/hb-04-one-to-many-uni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/hb-05-many-to-many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/AddCoursesForMaryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/CreateCourseAndReviewsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/CreateCourseAndStudentsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/CreateCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/CreateInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/CreateInstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/DeleteCourseAndReviewsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/DeleteCourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/DeleteMaryStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/DeletePacmanCourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/GetCourseAndReviewsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/GetCoursesForMaryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/GetInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/entity/InstructorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/entity/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/java/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/CreateCourseAndReviewsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/CreateCoursesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/CreateInstructorCoursesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/CreateInstructorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/DeleteCourseAndReviewsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/DeleteCourseDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/GetCourseAndReviewsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/GetInstructorCoursesDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/entity/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/entity/Instructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/entity/InstructorDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/entity/InstructorDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/entity/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/com/luv2code/hibernate/demo/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-05-many-to-many/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/hb-01-one-to-one-uni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/hb-03-one-to-many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/hb-eager-vs-lazy-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/CreateCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/CreateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/CreateInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/CreateInstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/DeleteCourseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/DeleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/EagerLazyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/FetchJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/GetInstructorCoursesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/GetInstructorDetailDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/entity/InstructorDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/entity/InstructorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/java/com/luv2code/hibernate/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/target/classes/com/luv2code/hibernate/demo/CreateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/target/classes/com/luv2code/hibernate/demo/DeleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/target/classes/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/target/classes/com/luv2code/hibernate/demo/GetInstructorDetailDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/target/classes/com/luv2code/hibernate/demo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hb-eager-vs-lazy-demo/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/.idea/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/hibernate-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/CreateStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/DateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/DeleteStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/PrimaryKeyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/QueryStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/ReadStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/UpdateStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-customer-tracker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/enity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/java/com/luv2code/hibernate/demo/enity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate-tutorial/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate-tutorial/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,10 +296,10 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Eclipse Adoptium/jdk-11.0.14.101-hotspot/lib/src.zip!/java.base/java/lang/annotation/Target.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/.ideaLibSources/jakarta.validation-api-2.0.2-sources.jar!/javax/validation/ConstraintValidator.java" root0="SKIP_INSPECTION" />
     <setting file="jar://V:/libraries/spring-framework-5.3.9/libs/spring-webmvc-5.3.9.jar!/META-INF/spring-form.tld" root0="SKIP_INSPECTION" />
     <setting file="jar://$MAVEN_REPOSITORY$/jstl/jstl/1.2/jstl-1.2.jar!/META-INF/c.tld" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.ideaLibSources/jakarta.validation-api-2.0.2-sources.jar!/javax/validation/ConstraintValidator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Eclipse Adoptium/jdk-11.0.14.101-hotspot/lib/src.zip!/java.base/java/lang/annotation/Target.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.ideaLibSources/jakarta.validation-api-2.0.2-sources.jar!/javax/validation/constraints/NotNull.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="LogFilters">
@@ -110,6 +308,9 @@
     <option name="FILTER_INFO" value="false" />
     <option name="FILTER_DEBUG" value="false" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -149,7 +350,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hibernate-tutorial" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -278,6 +479,7 @@
       <workItem from="1647543802682" duration="919000" />
       <workItem from="1647545392874" duration="2167000" />
       <workItem from="1647585528072" duration="595000" />
+      <workItem from="1647980292655" duration="2615000" />
     </task>
     <servers />
   </component>
