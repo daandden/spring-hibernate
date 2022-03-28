@@ -9,8 +9,8 @@
   <version>1.0-SNAPSHOT</version>
 
   <properties>
-    <springframework.version>5.3.16</springframework.version>
-    <aspectjweaver.version>1.9.8</aspectjweaver.version>
+    <springframework.version>5.3.17</springframework.version>
+    <aspectjweaver.version>1.9.9</aspectjweaver.version>
 
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
