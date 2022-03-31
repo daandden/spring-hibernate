@@ -18,15 +18,15 @@ public class GetInstructorDetailDemo {
 
         try {
             // get the instructor detail object
-            int theId = 1000;
-            InstructorDetail tempInstructorDetail = session.get(InstructorDetail.class, theId);
-
-            // print the instructor detail
-            System.out.println("tempInstructorDetail: " + tempInstructorDetail);
-
-            // print the associated instructor
-            System.out.println("the associated instructor: " + tempInstructorDetail.getInstructors());
-
+            int theId = 5;
+            // InstructorDetail tempInstructorDetail = session.get(InstructorDetail.class, theId);
+            //
+            // // print the instructor detail
+            // System.out.println("tempInstructorDetail: " + tempInstructorDetail);
+            //
+            // // print the associated instructor
+            // System.out.println("the associated instructor: " + tempInstructorDetail.getInstructors());
+            session.get(InstructorDetail.class, theId);
             // commit transaction
             transaction.commit();
         } catch (Exception e) {

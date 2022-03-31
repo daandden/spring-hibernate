@@ -3,7 +3,7 @@ package com.luv2code.hibernate.demo.enity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "instructor", indexes = {@Index(name = "FK_DETAIL_idx", columnList = "instructor_detail_id")})
+@Table(name = "instructor")
 public class Instructor {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

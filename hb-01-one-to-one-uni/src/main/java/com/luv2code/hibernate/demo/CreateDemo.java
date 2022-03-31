@@ -24,10 +24,12 @@ public class CreateDemo {
 
             InstructorDetail tempInstructorDetail = new InstructorDetail("http://www.luv2code/youtube", "Luv 2 code !!!");
 
+
+            tempInstructorDetail.setInstructors(tempInstructor);
             tempInstructor.setInstructorDetail(tempInstructorDetail);
 
             System.out.println("Saving instructor: " + tempInstructor);
-            session.save(tempInstructor);
+            session.persist(tempInstructor);
 
             // commit transaction
             transaction.commit();
