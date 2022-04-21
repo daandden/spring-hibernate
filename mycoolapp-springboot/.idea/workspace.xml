@@ -3,13 +3,75 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a27033fb-c779-48ab-a406-22e5ecd438dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springboot/demo/mycoolappspringboot/MycoolappSpringbootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/luv2code/springboot/demo/mycoolappspringboot/MycoolappSpringbootApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-rest-demo/src/main/java/com/luv2code/springdemo/rest/StudentRestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/dao/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/dao/CustomerDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/rest/CustomerErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/rest/CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/rest/CustomerRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/rest/CustomerRestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/java/com/luv2code/springdemo/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/resources/persistence-mysql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srping-crm-rest-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-rest-demo/src/main/java/com/luv2code/springdemo/rest/StudentRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-rest-demo/src/main/java/com/luv2code/springdemo/rest/StudentRestController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/apache-maven-3.8.4" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../apache-maven-3.8.4" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -19,6 +81,8 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectId" id="27Ki0M38I0GrwSlv0ODH1nLdKnR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +94,14 @@
   <component name="PropertiesComponent">
     <property name="LombokPluginIS_LOMBOK_JPS_FIX_ENABLED" value="true" />
     <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -39,7 +111,32 @@
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="MycoolappSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mycoolapp-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luv2code.springboot.demo.mycoolappspringboot.MycoolappSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\anhvu\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a27033fb-c779-48ab-a406-22e5ecd438dc" name="Changes" comment="" />
+      <created>1649074954696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649074954696</updated>
+      <workItem from="1649074958521" duration="1557000" />
+      <workItem from="1649260415187" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
